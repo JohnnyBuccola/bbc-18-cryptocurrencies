@@ -1,1 +1,2 @@
-# bbc-18-cryptocurrencies
+# Challenge 18 - Cryptocurrency and Unsupervised Learning
+The purpose of this challenge is to experiment with unsupervised learning methods like K-Means to analyze a list of cryptocurrencies and their associated data by using a number of visualizations with hvplot and plotly express.
